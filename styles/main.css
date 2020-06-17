@@ -88,4 +88,8 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between; }
 
+.carousel__item {
+  -webkit-transition: margin-left 1s;
+  transition: margin-left 1s; }
+
 /*# sourceMappingURL=main.css.map */
